@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Angular.me
+title:               'Angular.me'
 tagline:             ''
-description:         'Another Blog to leverage /my|your/ Angular Skills.'
+description:         'Another Blog to leverage your Angular Skills.'
 url:                 http://angular.me
 baseurl:             ''
 paginate:            5
@@ -14,7 +14,7 @@ paginate:            5
 # About/contact
 author:
   name:              Chihab Otmani
-  url:               http://angular.me
+  url:               @chihab
   email:             chihab@gmail.com
 
 # Custom vars
