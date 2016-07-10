@@ -8,7 +8,7 @@ title:               'Angular.me'
 tagline:             ''
 description:         'Another Blog to leverage your Angular Skills.'
 url:                 http://angular.me
-baseurl:             ''
+baseurl:             '/'
 paginate:            5
 
 # About/contact
