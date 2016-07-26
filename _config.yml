@@ -1,21 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:        pretty
+relative_permalinks: true
 
 # Setup
-title:               'Chihab Otmani'
-tagline:             ''
-description:         'An Object Oriented mind now thinking Functional.'
-url:                 http://chihab.github.io
-baseurl:             'http://chihab.github.io'
-paginate:            5
+title:            'Chihab Otmani'
+tagline:          ''
+description:      'An Object Oriented mind now thinking Functional.'
+url:              http://chihab.github.io
+baseurl:          /
 
-# About/contact
 author:
   name:              Chihab Otmani
   url:               https://www.linkedin.com/in/chihab
   email:             chihab@gmail.com
 
+paginate:         5
+
 # Custom vars
-version:             1.0.0
+version:          2.1.0
+
+github:
+  repo:           https://github.com/chihab
