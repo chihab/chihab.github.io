@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               'Chihab Otmani'
 tagline:             ''
-description:         'A object oriented mind now thinking functional.'
+description:         'An Object Oriented mind now thinking Functional.'
 url:                 http://chihab.github.io
 baseurl:             'http://chihab.github.io'
 paginate:            5
