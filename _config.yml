@@ -7,8 +7,8 @@ permalink:           pretty
 title:               'Angular.me'
 tagline:             ''
 description:         'Another Blog to leverage your Angular Skills.'
-url:                 http://chihab.angular.me
-baseurl:             'http://chihab.angular.me'
+url:                 http://angular.me
+baseurl:             'http://angular.me'
 paginate:            5
 
 # About/contact
