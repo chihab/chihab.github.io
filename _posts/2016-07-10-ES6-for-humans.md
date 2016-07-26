@@ -3,10 +3,6 @@ layout: post
 title: ES6-for-humans
 ---
 
-# ES6 for Humans
-
-<br>
-
 ### Table of Contents
 
 * [`let`, `const` and block scoping](#1-let-const-and-block-scoping)
